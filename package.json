@@ -1,0 +1,23 @@
+{
+  "name": "mongodb1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJC-1/mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PJC-1/mongodb/issues"
+  },
+  "homepage": "https://github.com/PJC-1/mongodb#readme",
+  "dependencies": {
+    "mongoose": "^4.11.4"
+  }
+}
